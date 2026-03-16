@@ -66,6 +66,6 @@ int main()
 ```
 
 ## Output:
-
+![alt text](output.png)
 ## Result:
 The program is executed successfully.
